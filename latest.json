@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "min_supported": "1.0.0",
+  "notes": "Current release.",
+  "mac": {
+    "url": "https://github.com/Avidan87/Scriptaz-releases/releases/download/v1.0.0/Scriptaz.dmg",
+    "sha256": ""
+  },
+  "win": {
+    "url": "https://github.com/Avidan87/Scriptaz-releases/releases/download/v1.0.0/Scriptaz-Setup.exe",
+    "sha256": ""
+  }
+}
